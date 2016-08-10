@@ -13,9 +13,7 @@
         android:label="Tests for com.tribe7.convenientbanner.test"
         android:targetPackage="com.tribe7.convenientbanner.test" />
 
-    <application
-        android:allowBackup="true"
-        android:supportsRtl="true" >
+    <application>
         <uses-library android:name="android.test.runner" />
     </application>
 
