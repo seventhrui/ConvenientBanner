@@ -56,12 +56,12 @@
         "source": "D:\\Data\\workspace\\My\\ConvenientBanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "D:\\Data\\workspace\\My\\ConvenientBanner\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "D:\\Data\\workspace\\My\\ConvenientBanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\color\\abc_tint_seek_thumb.xml"
-    },
-    {
         "merged": "D:\\Data\\workspace\\My\\ConvenientBanner\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
         "source": "D:\\Data\\workspace\\My\\ConvenientBanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Data\\workspace\\My\\ConvenientBanner\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "D:\\Data\\workspace\\My\\ConvenientBanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "D:\\Data\\workspace\\My\\ConvenientBanner\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
