@@ -1,3 +1,4 @@
-<manifest package="com.tribe7.convenientbanner">
+<manifest package="com.tribe7.convenientbanner"
+    xmlns:tools="android:theme,android:label">
 
 </manifest>
